@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Pokedex</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+  <header>
+    <h1>Pokedex</h1>
+    <input type="text" id="buscar" placeholder="Buscar Pokémon...">
+  </header>
+
+  <section id="lista_pokemon">
+    <!-- Aquí se mostrará la lista de Pokemones -->
+  </section>
+
+  <!-- Modal para detalles del Pokémon -->
+  <div id="modal_pokemon" class="modal">
+    <div class="modal-contenido">
+      <span class="cerrar">&times;</span>
+      <div id="detalles_pokemon">
+        <!-- Detalles del Pokémon se mostrarán aquí -->
+      </div>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+
+</html>

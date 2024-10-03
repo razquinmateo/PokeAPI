@@ -22,12 +22,12 @@ Este es un proyecto de una aplicación web interactiva que utiliza la API públi
 1. Clona este repositorio en tu máquina local:
 
    ```bash
-   git clone https://github.com/tu-usuario/pokeapi-web-app.git
+   git clone https://github.com/razquinmateo/PokeAPI
 
 2. Navega al directorio del proyecto:
    
    ```bash
-   cd pokeapi-web-app
+   cd PokeAPI
    
 4. Abre el archivo index.html en tu navegador para ver la aplicación en acción.
 

@@ -4,7 +4,7 @@ Este es un proyecto de una aplicación web interactiva que utiliza la API públi
 
 ## Características
 
-- **Interfaz amigable:** Una lista de 10 Pokemones se muestra al cargar la página.
+- **Interfaz:** Una lista de 10 Pokemones se muestra al cargar la página.
 - **Búsqueda de Pokemones:** Los usuarios pueden buscar un Pokémon por su nombre.
 - **Detalles de los Pokemones:** Al hacer clic en un Pokémon, se abre un modal que muestra detalles como habilidades, altura y peso.
 - **Favoritos:** Los usuarios pueden marcar Pokemones como favoritos, y esta selección se guarda en el almacenamiento local del navegador.

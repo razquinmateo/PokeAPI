@@ -26,9 +26,10 @@ Este es un proyecto de una aplicación web interactiva que utiliza la API públi
 
 2. Navega al directorio del proyecto:
    
+   ```bash
    cd pokeapi-web-app
    
-3. Abre el archivo index.html en tu navegador para ver la aplicación en acción.
+4. Abre el archivo index.html en tu navegador para ver la aplicación en acción.
 
 ## Uso
 
@@ -39,5 +40,4 @@ Marca un Pokémon como favorito haciendo clic en el botón "Marcar como Favorito
 
 ## API utilizada
 
-PokeAPI: Una API pública para obtener información detallada sobre todos los Pokemones.
-[PokeAPI](https://pokeapi.co/)
+[PokeAPI](https://pokeapi.co/): Una API pública para obtener información detallada sobre todos los Pokemones.
